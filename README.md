@@ -18,7 +18,8 @@
 
 
 # monitoring of services
-![image](https://user-images.githubusercontent.com/74395610/109851925-3c08dc00-7c7a-11eb-8720-0fc802812820.png)
+![image](https://user-images.githubusercontent.com/74395610/109853000-6b6c1880-7c7b-11eb-9f8e-44e2768698c0.png)
+
 
 
 # deployment strategy that can be adapted for Staging
