@@ -25,3 +25,7 @@
 
 # deployment strategy that can be adapted for Staging
 ![image](https://user-images.githubusercontent.com/74395610/109852791-2ea02180-7c7b-11eb-96d4-763d3d6728c6.png)
+
+# application
+![image](https://user-images.githubusercontent.com/74395610/109855051-d1599f80-7c7d-11eb-8c50-90999cb4bed5.png)
+
